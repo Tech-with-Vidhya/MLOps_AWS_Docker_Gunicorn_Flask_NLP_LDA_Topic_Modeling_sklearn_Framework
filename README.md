@@ -29,6 +29,7 @@ Complete data is split 90% in the training and the rest 10% to get an idea how t
 13. Verified the Deployed Application Endpoint for Model Inferences
 
 <h3><b><u>Tools & Technologies:</u></b></h3>
+<br>
 Python, Flask, Gunicorn, AWS S3, AWS ECR, AWS Code Commit, AWS Code Build, AWS Code Deploy, AWS Code Pipeline, boto3, AWS CLI, AWS EC2, AWS Load Balancing, AWS IAM.
 
 
